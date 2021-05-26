@@ -1,0 +1,22 @@
+.Forecast{
+    margin-top: 5px ;
+     padding: 5px 2px; 
+}
+
+.Card{
+    background: rgba(179, 177, 177, 0.6);
+    width: 190px;
+    padding: 20px 0;
+    margin: 0 3px;
+}
+
+.WeatherIcon{
+    background: transparent;
+    background-color: rgba(179, 177, 177, 0.1);
+}
+
+.WeatherIcon > img{
+    width: 50px;
+    height: 50px;
+    background-color: rgba(179, 177, 177, 0.1);
+}

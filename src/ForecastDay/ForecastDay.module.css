@@ -1,0 +1,53 @@
+.ForecastDay{
+    /* background-color: salmon; */
+    width: 100%;
+    padding: 20px;
+}
+.Current{
+    background-color: rgba(179, 177, 177, 0.6);
+    width: 100%;
+    margin: 10px auto;
+}
+
+.Section1{
+    background-color: rgba(179, 177, 177, 0.6);
+    padding: 10px 30px;
+    width: 50%;
+}
+
+.Section1  p {
+    width: fit-content;
+}
+
+.Weather{
+   /*  background-color: silver; */
+    width: fit-content;
+}
+
+.Section2{
+    background-color: rgba(179, 177, 177, 0.6);
+    width: 50%;
+}
+
+.Section2 p{
+    background-color: rgba(179, 177, 177, 0.1);
+    width: 200px;
+}
+
+.WeatherInfo{
+    background-color: rgba(179, 177, 177, 0.6);
+    margin: 5px 5px;
+}
+
+.HourlyData{
+/*     background-color: white; */
+    margin: 10px 0;
+    padding: 10px 0;
+}
+
+.Hour{
+    background-color: rgba(179, 177, 177, 0.6);
+    width: 200px;
+    margin: 0 5px;
+    padding: 0 10px;
+}
